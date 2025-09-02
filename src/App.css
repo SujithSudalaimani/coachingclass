@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Righteous";
+  src: url("../src/fonts/Righteous-Regular.ttf");
+}
